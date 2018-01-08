@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World!"
+title: "Hello Som World!"
 description: "The first 'Hello world' post for Simple Texture theme."
 categories: [uncategorized]
 tags: [random, jekyll]
